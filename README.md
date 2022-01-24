@@ -25,7 +25,7 @@
  
  Telefono: 3416752684
  
- LinkedIn: <a href="https://www.linkedin.com/in/ivanjunoy/">https://www.linkedin.com/in/ivanjunoy/</a>
+ LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/ivanjunoy/">https://www.linkedin.com/in/ivanjunoy/</a>
 
 </details>
 
