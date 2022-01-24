@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 - Soy estudiante de Analista en Sistemas.
-- Estudio desarrollo Web  
+- Estudio Desarrollo Web  
 - Me encuentro en la busqueda de mi primer empleo en el rubro IT.
 
 
