@@ -2,7 +2,6 @@
 
 - Soy estudiante de Analista en Sistemas.
 - Estudio Desarrollo Web  
-- Me encuentro en la busqueda de mi primer empleo en el rubro IT.
 
 
 ## Tecnologias:
@@ -22,8 +21,6 @@
 ## Contacto 📫
  
  Gmail: ivanjunoy@gmail.com
- 
- Telefono: 3416752684
  
  LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/ivanjunoy/">https://www.linkedin.com/in/ivanjunoy/</a>
 
