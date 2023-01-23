@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 - Soy estudiante de Analista en Sistemas.
-- Estudio Desarrollo Web  
+- Trabajo como Desarrollador Web  
 
 
 ## Tecnologias:
