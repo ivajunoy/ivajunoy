@@ -24,7 +24,7 @@
  
  LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/ivanjunoy/">https://www.linkedin.com/in/ivanjunoy/</a>
 
-<a target="_blank" href=" https://www.ivanjunoy.site/">/www.ivanjunoy.site/</a>
+ <a target="_blank" href="https://www.ivanjunoy.site/">www.ivanjunoy.site</a>
 
 
 </details>
